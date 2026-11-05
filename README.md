@@ -20,7 +20,7 @@
 ### Featured Projects
 - [College Management System](https://github.com/PinkuNath/college-management-system) – Backend application built with Java and Spring Boot.
 - [DSA Java](https://github.com/PinkuNath/dsa-java) – Implementation and practice of data structures and algorithms in Java.
+- [Multi-File C Programming](https://github.com/PinkuNath/c-multifile-programming) – Menu-driven array operations program demonstrating modular programming in C.
 
 ### Connect With Me
 - [LinkedIn](https://linkedin.com/in/pinku-nath)
-- [GitHub](https://github.com/PinkuNath)
